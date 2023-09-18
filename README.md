@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot_2023-09-18%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
+![](./images/screenshoot-phone.jpeg)
 ![](./images/Screenshot_2023-09-18%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 ### Links
