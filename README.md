@@ -59,6 +59,6 @@ Con esta regla logré generar una capa de color transparente sobre la imagen del
 
 ## Author
 
-- LinkedIn - https://www.linkedin.com/in/benjamin-corujo-14660824a/
+- LinkedIn - https://www.linkedin.com/in/benjamin-corujo-alanis
 - Frontend Mentor - https://www.frontendmentor.io/profile/Benja307
 - Instagram - @corujobenja_30
